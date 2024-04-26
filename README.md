@@ -2,6 +2,15 @@
 Este projeto tem como objetivo descriver os principais pontos das aulas do curso "Formação Az-900". 
 Abaixo irá conter tópicos onde cada um deles é de um curso dentro da formação mencionada.
 
+
+- Desafio "Microsoft Azure: Nuvem em Ação"
+    Para criar uma conta foi necessário seguir os passos abaixo:
+        . Acessar o link: https://azure.microsoft.com/pt-br/free/
+        . Acionar o botão "Experimente gratuitamente"
+        . Mencionar o usuário e a senha cadastrarda na microsoft
+        . Caso não tenha um usuário, realize o cadastro atraves da funcionalidade "Crie uma conta" ou acesse o link "https://signup.live.com/signup"
+    Obs: Os passos acima podem ser alterados caso ocorra alguma atualização na plataforma.
+
 - Desafio "Explorando os Benefícios da Azure":
     Na aula de laboratorio é mencionado os valores dos SLA (Acordo de Nivel de Serviço) dos serviços do AZURE
       - Valores dos SLA: 99%, 99.9%, 99.95%, 99.99%, 99.999%
