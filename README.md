@@ -11,6 +11,7 @@ Abaixo irá conter tópicos onde cada um deles é de um curso dentro da formaç�
 - Desafio "Desvendando os Serviços de Nuvem do Azure"
       Na aula de laboratório é mencionado sobre a seleção do sistema operacional na hora da criação de uma máquina virtual.
       è mencionado nas aulas anteriores sobre os sequintes Tipos de Serviço:
+  
     	- Iaas (Infraestrutura como Serviço)
     		. Controle da Infra
     		. Mais flexivel
